@@ -1,3 +1,4 @@
 # Fundamentos-de-la-Web-Alvarez
-la internet funciona en un servidor de solicitud y respuesta
-la solicitud es un
+La internet es funciona a base de solicitudes y respuestas
+una solicitud es una orden que el usuario le da a la consola
+una respuesta es la solucion que le da la consola al usuario
