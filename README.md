@@ -11,6 +11,10 @@
 
 *emphasis y strong: //emphasis_y_strong.html
 
-*listas: //listas.html
+*listas: //<ul> ordena con puntos- <ol> enumera listas.html
 
-*tablas: //tablas.html
+*tablas: //<table> con <tr>anidada (filas de tabla) que contiene anidadas <th> o <td> para el encabezado o las celdas de datos regulares, respectivamente  //tablas.html
+
+*imagenes: //imagenes.html
+
+*videos: //videos.html
