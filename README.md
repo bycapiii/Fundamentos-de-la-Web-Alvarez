@@ -18,3 +18,5 @@
 *imagenes: //imagenes.html
 
 *videos: //videos.html
+
+*Formularios: //formulario.html
